@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Amanda!!;" />
+</h1>
 
-<!--
-**AmandaLeopoldoo/AmandaLeopoldoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" >
+ - 🔭 Atualmente estou a procura de estagios...
+ <br>
+ - 🌱 Cursando Analise e Desenvolvimento de Sistemas...
+ </div>
 
-Here are some ideas to get you started:
+ <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<br>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=python,vscode,html,css,javascript,java," />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center" >⚡Stats⚡</h2>
+<br>
+<div align="center" >
+
+
+![AmandaLeopoldo's Stats](https://github-readme-stats.vercel.app/api?username=AmandaLeopoldoo&theme=gotham&show_icons=true&hide_border=false&count_private=true)
+![AmandaLeopoldo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaLeopoldoo&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+
+##
+
+<div> 
+  <a href = "amandaleopoldo2930@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/amanda-leopoldo-a61478319" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
