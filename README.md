@@ -10,7 +10,7 @@
 
  <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
-<p>Desenvolvedora Backend | Java & Spring Boot | SQL | Analise e Desenvolvimento de Sistemas
+<p align="center">Desenvolvedora Backend | Java & Spring Boot | SQL | Analise e Desenvolvimento de Sistemas
 <p>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=python,vscode,java,mysql,spring"/>
