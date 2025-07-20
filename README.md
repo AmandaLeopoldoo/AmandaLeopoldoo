@@ -42,11 +42,12 @@
 
 ## ⚡ Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmandaLeopoldoo&show_icons=true&theme=gotham&rank_icon=github&hide_title=false" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaLeopoldoo&theme=gotham&show_icons=true&hide_border=false&layout=compact"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmandaLeopoldoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmandaLeopoldoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ---
 <p align="center">
