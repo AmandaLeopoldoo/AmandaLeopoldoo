@@ -14,8 +14,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-          color_snake: "#a259f7"       # Roxo
-          color_dots: "#181825,#282a36,#44475a,#bd93f9"  # Tons de grid escuro
+          color_snake: "#a259f7"
+          color_dots: "#181825,#282a36,#44475a,#bd93f9"
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
