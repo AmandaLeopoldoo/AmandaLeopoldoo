@@ -20,10 +20,10 @@
 ## ⚒️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,vscode,git" />
 </p>
 
-- **Linguagens:** Java, Python  
+- **Linguagens:** Java 
 - **Frameworks:** Spring Boot  
 - **Banco de dados:** MySQL  
 - **Ferramentas:** Git, VS Code
