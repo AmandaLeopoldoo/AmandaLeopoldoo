@@ -25,7 +25,7 @@
 
 - **Linguagens:** Java 
 - **Frameworks:** Spring Boot  
-- **Banco de dados:** MySQL  
+- **Banco de dados:** PostgreSQL
 - **Ferramentas:** Git, VS Code
 
 ---
