@@ -20,7 +20,7 @@
 ## ⚒️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,postman,idea,git" />
 </p>
 
 - **Linguagens:** Java 
