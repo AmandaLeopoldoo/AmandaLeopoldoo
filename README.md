@@ -31,10 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmandaLeopoldoo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
-<div align="right">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2J0NTdleXcydW8zN2lxaXgzaXR4ZWRvOWhnNzFpaWtpYW9wZW40NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kl0WJZlcpoBm8/giphy.gif" width="400px" alt="commit gif looping" />
-</div>
-
 ---
 
 ## 🚀 Projetos em Destaque
