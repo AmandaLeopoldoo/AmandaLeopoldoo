@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Apple founder • Visionary • Product Designer</em>
+  <em>Java lover • Nerd • Programmer</em>
 </p>
 
 <p align="center">
