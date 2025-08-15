@@ -31,6 +31,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmandaLeopoldoo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
+
 ---
 
 ## 🚀 Projetos em Destaque
