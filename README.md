@@ -20,12 +20,12 @@
 ## ⚒️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,postman,idea,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,postman,idea,git" />
 </p>
 
 - **Linguagens:** Java 
 - **Frameworks:** Spring Boot  
-- **Banco de dados:** PostgreSQL
+- **Banco de dados:** PostgreSQL, MongoDB
 - **Ferramentas:** Git, Intelij
 
 ---
