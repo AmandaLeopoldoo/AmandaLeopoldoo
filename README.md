@@ -17,8 +17,7 @@
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas  
 - 🔭 Buscando oportunidades de estágio em desenvolvimento de software  
-- 💡 Apaixonada por backend, APIs e resolver problemas com tecnologia  
-- 🌱 Sempre aprendendo, especialmente Java, Spring Boot e bancos de dados relacionais
+- 💡 Apaixonada por backend
 
 ---
 
@@ -27,11 +26,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,postman,idea,git" />
 </p>
-
-- **Linguagens:** Java 
-- **Frameworks:** Spring Boot  
-- **Banco de dados:** PostgreSQL, MongoDB
-- **Ferramentas:** Git, Intelij
 
 ---
 
