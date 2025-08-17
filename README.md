@@ -1,6 +1,4 @@
-<h1 align="center">
-  Olá! 👋 Eu sou a Amanda
-</h1>
+<h1 align="center">Welcome, I'm amanda! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
 
 <p align="center">
   <em>Java lover • Nerd • Programmer</em>
