@@ -26,9 +26,9 @@
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,postman,idea,git" />
 </p>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmandaLeopoldoo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="200" alt="languages graph"  />
-</div>
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaLeopoldoo&theme=bear&show_icons=true&hide_border=true&layout=compact" alt="AmandaLeopoldoo's Top Languages" />
+</p>
 
 ---
 
@@ -42,9 +42,10 @@
 
 ## ⚡ Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmandaLeopoldoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&order=1" height="200" alt="stats graph" /> <br>
-</div>
+
+![AmandaLeopoldoo's Stats](https://github-readme-stats.vercel.app/api?username=AmandaLeopoldoo&theme=bear&show_icons=true&hide_border=true&count_private=true)
+![AmandaLeopoldoo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmandaLeopoldoo&theme=bear&hide_border=true)
+
 
 ###
 
