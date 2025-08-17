@@ -43,8 +43,18 @@
 ## ⚡ Estatísticas
 
 
-![AmandaLeopoldoo's Stats](https://github-readme-stats.vercel.app/api?username=AmandaLeopoldoo&theme=bear&show_icons=true&hide_border=true&count_private=true)
-![AmandaLeopoldoo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmandaLeopoldoo&theme=bear&hide_border=true)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=AmandaLeopoldoo&theme=bear&show_icons=true&hide_border=true&count_private=true" alt="AmandaLeopoldoo's Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmandaLeopoldoo&theme=bear&hide_border=true" alt="AmandaLeopoldoo's Streak"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ###
