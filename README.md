@@ -1,22 +1,21 @@
+
 <h1 align="center"> Olá, sou Amanda! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
 
 <p align="center">
   <em>Java lover • Nerd • Programmer</em>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/i905HPB.gif" width="300px" alt="gif animado" />
-</p>
+<img align="right" width=300px alt="gif animado" src="https://i.imgur.com/i905HPB.gif" />
 
----
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre Mim!***
 
-## Sobre mim
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas  
-- 🔭 Buscando oportunidades de estágio em desenvolvimento de software  
-- 💡 Apaixonada por backend
+Sou estudante de Analise e Desenvolvimento de Sistemas e estou expandindo meus conhecimentos com foco para o back-end. Estou atualmente a    procura de um estagio para aprimorar meus conhecimentos, adoro aprender e construir algo novo, produtivo, inovador e criativo.
+- 🌱 Atualmente estou aprendendo ...
+  - Java
+  - Spring Boot
+                           
 
----
 
 ## ⚒️ Tecnologias e Ferramentas
 
