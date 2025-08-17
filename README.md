@@ -39,12 +39,6 @@
   ⚡ API REST em Java 24 com Spring Boot 3.5.4 para cadastro, consulta, atualização e exclusão de usuários.  
   💾 Utiliza JPA, banco H2 em memória e Lombok.  
 
-- [**sistema-pedidos-java**](https://github.com/AmandaLeopoldoo/sistema-pedidos-java)  
-  🛒 Sistema de Gerenciamento de Pedidos em Java — Cadastro de clientes, produtos e pedidos com validação de dados, resumo detalhado e boas práticas de programação orientada a objetos.
-
-- [**sistema_contratos**](https://github.com/AmandaLeopoldoo/sistema_contratos)  
-  💼 Sistema em Java para cadastro e gerenciamento de contratos de trabalho de funcionários, com validação de dados e cálculo de renda mensal.
-
 ---
 
 ## ⚡ Estatísticas
