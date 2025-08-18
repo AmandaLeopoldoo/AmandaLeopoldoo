@@ -5,18 +5,18 @@
   <em>Java lover • Nerd • Programmer</em>
 </p>
 
-<img align="right" width=300px alt="gif animado" src="https://i.imgur.com/i905HPB.gif" />
+<img align="right" width=350px alt="gif animado" src="https://i.imgur.com/i905HPB.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre Mim!***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px">&nbsp;***Sobre Mim!***
 
 
-Sou estudante de Analise e Desenvolvimento de Sistemas e estou expandindo meus conhecimentos com foco para o back-end. Estou atualmente a    procura de um estagio para aprimorar meus conhecimentos, adoro aprender e construir algo novo, produtivo, inovador e criativo.
-- 🌱 Atualmente estou aprendendo ...
+<p align="left" > Sou estudante de Analise e Desenvolvimento de Sistemas e estou expandindo meus conhecimentos com foco para o back-end. Estou atualmente a    procura de um estagio para aprimorar meus conhecimentos, adoro aprender e construir algo novo, produtivo, inovador e criativo.
+ 
+  - 🌱 Atualmente estou aprendendo ...
   - Java
   - Spring Boot
+</p>
                            
-
-
 ## ⚒️ Tecnologias e Ferramentas
 
 <p align="center">
@@ -72,6 +72,8 @@ Sou estudante de Analise e Desenvolvimento de Sistemas e estou expandindo meus c
 
 ---
 
-<p align="center">
-  Obrigada pela visita! 🚀
-</p>
+<div align="center">
+
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px" style="vertical-align: middle;">&nbsp;<strong>Obrigada pela visita!</strong>
+
+</div>
