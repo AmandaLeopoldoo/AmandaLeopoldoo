@@ -5,7 +5,7 @@
   <em>Java lover • Nerd • Programmer</em>
 </p>
 
-<img align="right" width=350px alt="gif animado" src="https://i.imgur.com/i905HPB.gif" />
+<img align="right" width=300px alt="gif animado" src="https://i.imgur.com/i905HPB.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px">&nbsp;***Sobre Mim!***
 
