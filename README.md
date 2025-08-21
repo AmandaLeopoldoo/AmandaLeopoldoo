@@ -10,12 +10,16 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px">&nbsp;***Sobre Mim!***
 
 
-<p align="left" > Sou estudante de Analise e Desenvolvimento de Sistemas e estou expandindo meus conhecimentos com foco para o back-end. Estou atualmente a    procura de um estagio para aprimorar meus conhecimentos, adoro aprender e construir algo novo, produtivo, inovador e criativo.
- 
-  - 🌱 Atualmente estou aprendendo ...
-  - Java
-  - Spring Boot
+<p align="left">
+  <i>Sou estudante de Análise e Desenvolvimento de Sistemas com foco em back-end, apaixonada por aprender e sempre em busca de novos desafios. Atualmente, procuro um estágio para aplicar meus conhecimentos e evoluir profissionalmente, contribuindo com soluções produtivas, criativas e inovadoras.</i>
 </p>
+
+<ul align="left">
+  <li>🌱 Atualmente estou aprendendo ...</li>
+  <li>Java</li>
+  <li>Spring Boot</li>
+</ul>
+
                            
 
 ## ⚒️ Tecnologias e Ferramentas
