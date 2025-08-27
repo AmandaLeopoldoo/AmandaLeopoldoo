@@ -54,7 +54,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=AmandaLeopoldoo&theme=bear&show_icons=true&hide_border=true&count_private=true" alt="AmandaLeopoldoo's Stats"/>
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmandaLeopoldoo&theme=bear&hide_border=true" alt="AmandaLeopoldoo's Streak"/>
+       <img src="https://streak-stats.demolab.com?user=AmandaLeopoldoo&theme=bear&hide_border=true" alt="AmandaLeopoldoo's Streak"/>
       </td>
     </tr>
   </table>
