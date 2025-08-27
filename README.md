@@ -39,8 +39,7 @@
 - [**Cadastro-Usuario-Springboot**](https://github.com/AmandaLeopoldoo/Cadastro-Usuario-Springboot)  
   ⚡ API REST em Java 24 com Spring Boot 3.5.4 para cadastro, consulta, atualização e exclusão de usuários.  
 
-- [**Desafio Posto de Combustível**](https://github.com/AmandaLeopoldoo/Desafio_PostoDeCombustivel)
-
+- [**Desafio Posto de Combustível**](https://github.com/AmandaLeopoldoo/Desafio_PostoDeCombustivel)  
   ⛽ API em Java para gestão de abastecimentos em posto de combustível: registre bombas, tipos de combustível e abastecimentos com cálculo automático do valor total.
  
 ---
