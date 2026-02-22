@@ -18,6 +18,7 @@
   <li>🌱 Atualmente estou aprendendo ...</li>
   <li>Java</li>
   <li>Spring Boot</li>
+  <li>Python</li>
 </ul>
 
                            
